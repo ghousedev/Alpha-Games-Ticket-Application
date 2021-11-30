@@ -211,6 +211,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Alpha Games_TemporaryKey.pfx" />
+    <PRIResource Include="Resources.resw" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
